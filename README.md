@@ -19,15 +19,10 @@
 
 ## 🧠 About Me
 
-```python
-asim = {
-    "name"      : "Asim Almuayqili",
-    "education" : "B.Sc. Computer Science — Umm Al-Qura University (2024)",
-    "focus"     : ["Computer Vision", "Arabic NLP", "Multi-Agent Systems", "RL"],
-    "location"  : "Makkah, Saudi Arabia",
-    "contact"   : "asom851@gmail.com",
-}
-```
+- 🎓 B.Sc. Computer Science — Umm Al-Qura University (2024)
+- 🧩 Focus: Computer Vision · Arabic NLP · Multi-Agent Systems · RL
+- 📍 Makkah, Saudi Arabia
+- 📬 asom851@gmail.com
 
 - 🔭 Building production-ready AI systems across CV, NLP, and RL
 - 🌙 Passionate about Arabic language AI
